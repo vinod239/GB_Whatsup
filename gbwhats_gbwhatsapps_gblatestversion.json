@@ -1,0 +1,30 @@
+{
+  "ads_status": "on",
+  "ads_second": 21,
+  "data": {
+    "native": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Native",
+    "native1": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Native",
+    "native2": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Native",
+    "appopen": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.AppOpen",
+    "appopen1": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.AppOpen",
+    "appopen2": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.AppOpen",
+    "banner": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Banner",
+    "banner1": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Banner",
+    "banner2": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Banner",
+    "interstitial": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial1": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial2": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial_second": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial_start": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial_other": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "interstitial_back": "/22405025169,22673148547/statusdownloader.statussaver.storysaver.gbw.Interstitial",
+    "ads_click": "1",
+    "is_guide": "true",
+    "is_launch": "false",
+    "is_rectbanner": "false",
+    "is_splashinter": "true",
+    "isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
+    "isapplive": "true",
+    "privacy_policy": "https://unicode612.github.io/web/privacy_policy_data.html"
+  }
+}

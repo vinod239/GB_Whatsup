@@ -1,10 +1,11 @@
 {
   "ads_status": "on",
   "data": {
-    "native": "ca-app-pub-3940256099942544/2247696110",
-    "appopen": "ca-app-pub-3940256099942544/3419835294",
-    "banner": "ca-app-pub-3940256099942544/6300978111",
-    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "native": "/6499/example/native",
+    "appopen": "/6499/example/app-open",
+    "banner": "/6499/example/banner",
+    "reward": "/6499/example/rewarded",
+    "interstitial": "/6499/example/interstitial",
     "ads_click": "1",
     "button_click":"2",
     "privacy_policy": "https://unicode612.github.io/web/privacy_policy_data.html"

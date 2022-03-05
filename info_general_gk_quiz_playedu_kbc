@@ -1,0 +1,30 @@
+{
+  "ads_status": "on",
+  "ads_second": 21,
+  "data": {
+    "native": "ca-app-pub-3940256099942544/2247696110",
+    "native1": "ca-app-pub-3940256099942544/2247696110",
+    "native2": "ca-app-pub-3940256099942544/2247696110",
+    "appopen": "ca-app-pub-3940256099942544/3419835294",
+    "appopen1": "ca-app-pub-3940256099942544/3419835294",
+    "appopen2": "ca-app-pub-3940256099942544/3419835294",
+    "banner": "ca-app-pub-3940256099942544/6300978111",
+    "banner1": "ca-app-pub-3940256099942544/6300978111",
+    "banner2": "ca-app-pub-3940256099942544/6300978111",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial1": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial2": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_second": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_start": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_other": "ca-app-pub-3940256099942544/1033173712",
+    "interstitial_back": "ca-app-pub-3940256099942544/1033173712",
+    "ads_click": "1",
+    "is_guide": "true",
+    "is_launch": "false",
+    "is_rectbanner": "false",
+    "is_splashinter": "true",
+    "isappid": "hdvideo.downloader.hdvideoplayer.allmediaplayerfree",
+    "isapplive": "true",
+    "privacy_policy": "https://unicode612.github.io/web/privacy_policy_data.html"
+  }
+}

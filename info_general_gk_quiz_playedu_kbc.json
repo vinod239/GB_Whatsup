@@ -1,5 +1,5 @@
 {
-  "ads_status": "on",
+  "ads_status": "off",
   "data": {
     "native": "/6499/example/native",
     "appopen": "/6499/example/app-open",

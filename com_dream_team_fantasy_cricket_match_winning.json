@@ -5,7 +5,7 @@
 	"banner_id": "/6499/example/banner",
 	"interstitial_id": "/6499/example/interstitial",
 	"app_open": "/6499/example/app-open",
-	"qureka_enable ": false,
+	"qureka_enable": false,
 	"inters_click_gap_module": "5",
 	"interstitial_backpress_click_module": "5",
 	"interstitial_enable_back_press": false,

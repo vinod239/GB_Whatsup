@@ -1,16 +1,16 @@
 {
-    "interstitial_enable_splash": false,
-    "app_open_enable_splash": true,
-    "native_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Native0.1646729305",
-    "banner_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Banner0.1646729282",
-    "interstitial_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Interstitial0.1646729326",
-    "app_open": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.AppOpen0.1646729344",
-    "qureka_enable ": true,
-    "inters_click_gap_module":"1",
-    "interstitial_backpress_click_module":"1",
-    "interstitial_enable_back_press": true,
-    "native_list_enable": true,
-    "native_list_gap": "1",
-    "inters_click_initial_val": "1",
-    "interstitial_backpress_click_initial_val":"1"
-    }
+	"interstitial_enable_splash": false,
+	"app_open_enable_splash": true,
+	"native_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Native0.1646729305",
+	"banner_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Banner0.1646729282",
+	"interstitial_id": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.Interstitial0.1646729326",
+	"app_open": "/22387492205,22477486102/com.dream.team.fantasy.cricket.match.winning.guide.AppOpen0.1646729344",
+	"qureka_enable ": true,
+	"inters_click_gap_module": "1",
+	"interstitial_backpress_click_module": "1",
+	"interstitial_enable_back_press": true,
+	"native_list_enable": true,
+	"native_list_gap": "1",
+	"inters_click_initial_val": "1",
+	"interstitial_backpress_click_initial_val": "1"
+}

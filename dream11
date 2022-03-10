@@ -12,5 +12,6 @@
 	"native_list_enable": true,
 	"native_list_gap": "1",
 	"inters_click_initial_val": "1",
-	"interstitial_backpress_click_initial_val": "1"
+	"interstitial_backpress_click_initial_val": "1",
+	"qureka_enable_all":true
 }

@@ -13,7 +13,7 @@
 	"native_list_gap": "500",
 	"inters_click_initial_val": "500",
 	"interstitial_backpress_click_initial_val": "5",
-	"qureka_enable_all":false,
+	"qureka_enable_all":true,
 	"urlqureka":"https://3600.play.quizzop.com/",
 	"home_extra_native":false
 }

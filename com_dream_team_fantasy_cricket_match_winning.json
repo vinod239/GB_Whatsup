@@ -12,7 +12,7 @@
 	"native_list_enable": true,
 	"native_list_gap": "3",
 	"inters_click_initial_val": "3",
-	"interstitial_backpress_click_initial_val": "5",
+	"interstitial_backpress_click_initial_val": "2",
 	"qureka_enable_all":true,
 	"urlqureka":"https://3600.play.quizzop.com/",
 	"home_extra_native":false

@@ -1,5 +1,5 @@
 {
-	"interstitial_enable_splash": true,
+	"interstitial_enable_splash": false,
 	"app_open_enable_splash": true,
 	"native_id": "/6499/example/native11",
 	"banner_id": "/6499/example/banner11",

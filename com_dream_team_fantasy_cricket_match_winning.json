@@ -13,7 +13,7 @@
 	"native_list_gap": "2",
 	"inters_click_initial_val": "2",
 	"interstitial_backpress_click_initial_val": "2",
-	"qureka_enable_all":true,
+	"qureka_enable_all":false,
 	"urlqureka":"https://635.go.predchamp.com",
 	"home_extra_native":true
 }

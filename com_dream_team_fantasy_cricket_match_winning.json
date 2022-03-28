@@ -10,7 +10,7 @@
 	"interstitial_backpress_click_module": "2",
 	"interstitial_enable_back_press": true,
 	"native_list_enable": true,
-	"native_list_gap": "2",
+	"native_list_gap": "1",
 	"inters_click_initial_val": "2",
 	"interstitial_backpress_click_initial_val": "2",
 	"qureka_enable_all":false,

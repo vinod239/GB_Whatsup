@@ -1,7 +1,7 @@
 {
-  "ads_status": "on",
+  "ads_status": "false",
    "is_quereka": "false",
-  "ads_second": 21,
+  "ads_second": 50,
   "data": {
     "native": "/6499/example/native",
     "native1": "/6499/example/native",
@@ -20,8 +20,8 @@
     "interstitial_other": "/6499/example/interstitial",
     "quereka_Url": "https://635.go.predchamp.com/",
      "interstitial_back": "/6499/example/interstitial",
-    "ads_click": "1",
-    "is_guide": "true",
+    "ads_click": "7",
+    "is_guide": "false",
     "is_launch": "false",
     "is_rectbanner": "false",
     "is_splashinter": "true",

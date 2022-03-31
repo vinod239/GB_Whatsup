@@ -26,4 +26,42 @@
   "Privacy_police": "http://divineinfotech.website",
   "adsurl": "https://635.go.predchamp.com",
   "quereka_for_all" :"1"
+  "localAds":[ 
+      {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "my11team.livecrickettvmatchscore.livescore",
+        "ad_name": "videoplayer1"
+    },
+    {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "hdxplayer.smartplayer",
+        "ad_name": "videoplayer2"
+    },
+    {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "my11team.livecrickettvmatchscore.livescore",
+        "ad_name": "videoplayer1"
+    },
+    {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "hdxplayer.smartplayer",
+        "ad_name": "videoplayer2"
+    },
+    {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "my11team.livecrickettvmatchscore.livescore",
+        "ad_name": "videoplayer1"
+    },
+    {
+      
+        "ad_image": "http://neerjasoftech.com/api_services/ads_img/xxvideoplayer.jpeg",
+        "ad_link": "hdxplayer.smartplayer",
+        "ad_name": "videoplayer2"
+    }
+      ]
 }
